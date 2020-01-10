@@ -1,0 +1,9 @@
+a: 
+h1: header tag, makes the text large and puts it on a separate line
+h2: header tag, makes text larger, but no as large as h1
+img: 
+li: 
+ol: 
+p: 
+ul: 
+
