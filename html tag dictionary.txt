@@ -1,9 +1,9 @@
-a: 
+a: used to link from one page to another.
 h1: header tag, makes the text large and puts it on a separate line
 h2: header tag, makes text larger, but no as large as h1
-img: 
-li: 
-ol: 
-p: 
-ul: 
+img: image
+li: list item
+ol: orderlist
+p: represent a paragraph
+ul: unordered list/bullet point. have to work together with ol and li
 
